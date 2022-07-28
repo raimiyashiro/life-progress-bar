@@ -1,0 +1,22 @@
+{
+  "name": "life-progress-bar",
+  "version": "1.0.0",
+  "description": "What makes RPG games so pleasant to play? No doubt one of the reasons is that the more you play, the stronger and more skillful you get. Each monster you slay, each dungeon you explore, makes you closer to that next level.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raimiyashiro/life-progress-bar.git"
+  },
+  "author": "raimiyashiro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raimiyashiro/life-progress-bar/issues"
+  },
+  "homepage": "https://github.com/raimiyashiro/life-progress-bar#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
